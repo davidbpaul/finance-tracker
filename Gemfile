@@ -9,6 +9,8 @@ gem 'devise'
 #views
 gem 'twitter-bootstrap-rails'
 gem 'devise-bootstrap-views'
+#stocks
+gem 'stock_quote'
 #pasword security
 gem 'bcrypt', '~> 3.1.7'
 #page breaker
